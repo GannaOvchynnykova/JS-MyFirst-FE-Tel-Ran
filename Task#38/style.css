@@ -1,0 +1,27 @@
+* {
+
+    background-color: bisque;
+    font-family: fantasy;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.wrapper {
+    width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+    background-color: thistle;
+    border: 5px solid pink;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+}
+
+/*.line-through{
+    text-decoration: line-through;
+}*/
